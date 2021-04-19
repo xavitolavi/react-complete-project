@@ -11,7 +11,7 @@ function App() {
   ]
 
   return (
-    <div className="App" >
+    <div className="App">
       <h1>React App</h1>
       <Expenses items={expenses}/>
     </div>
